@@ -1,0 +1,15 @@
+# Кэш и временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Среда разработки (Visual Studio Code)
+.vscode/
+
+# Личные данные приложения
+data.json
+
+# Файлы операционной системы (для macOS и Linux)
+.DS_Store
+Thumbs.db
